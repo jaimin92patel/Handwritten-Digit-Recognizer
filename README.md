@@ -1,3 +1,6 @@
-# NeuralNet-Digit-Recognizer
-
-Implemented the backpropagation algorithm for neural networks and apply it to the task of hand-written digit recognition.
+Technology:
+Python
+---------------------------------------------------------------------------------------------------------------
+• Implemented feedforward propagation for neural networks .
+• Back propagation algorithm to compute the gradient for neural network cost function.
+• Used neural network and back propagation algorithm to predict hand written digit.
